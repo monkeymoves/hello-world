@@ -4,3 +4,6 @@ installed git
 
 made a repo (mkdir hello-world) 
 created a file and commited
+
+POST commit 
+"a new msg/change"
